@@ -1,0 +1,3 @@
+[submodule "poc-sub2"]
+	path = poc-sub2
+	url = https://github.com/jpcfreire/poc-sub2
